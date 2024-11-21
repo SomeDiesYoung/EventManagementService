@@ -1,0 +1,11 @@
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\bin\Debug\net8.0\Event.Manager.Service.deps.json
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\bin\Debug\net8.0\Event.Manager.Service.dll
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\bin\Debug\net8.0\Event.Manager.Service.pdb
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.AssemblyInfoInputs.cache
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.AssemblyInfo.cs
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.csproj.CoreCompileInputs.cache
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.dll
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\refint\Event.Manager.Service.dll
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\Event.Manager.Service.pdb
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\ref\Event.Manager.Service.dll

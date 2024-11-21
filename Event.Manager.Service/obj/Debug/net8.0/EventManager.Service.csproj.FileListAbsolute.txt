@@ -1,0 +1,4 @@
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\EventManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\EventManager.Service.AssemblyInfoInputs.cache
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\EventManager.Service.AssemblyInfo.cs
+G:\C#projects\GEOLAB\Project\EventManager\Event.Manager.Service\obj\Debug\net8.0\EventManager.Service.csproj.CoreCompileInputs.cache
